@@ -9,7 +9,7 @@ Here is an example output:
 
 
 In order to use this script you need to download your amazon.co.uk order history. 
-Unfortunately a feature to do this was removed from Amazon, back in 2018!
+Unfortunately a feature to do this was removed from Amazon.co.uk, back in 2018!
 It is still available for amazon.com accounts for those in the USA!
 
 However there is a github repository for a chrome extension to obtain this data easily from amazon.co.uk accounts.
