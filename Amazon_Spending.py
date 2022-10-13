@@ -1,4 +1,4 @@
-#   Python3 programme to analyse spending on your personal Amazon.co.uk account
+#   Python3 program to analyse spending on your personal Amazon.co.uk account
 #   Your order data first needs to be scraped from Amazon.co.uk using an open source chrome extension.
 #   Chrome extension is called: "Amazon Order History Reporter", August 2022 version was used with this python script.
 #   Chrome webstore url: https://chrome.google.com/webstore/detail/amazon-order-history-repo/mgkilgclilajckgnedgjgnfdokkgnibi
